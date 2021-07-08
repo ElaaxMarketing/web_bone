@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/**
+ * Copyright © Daniel Bauer ELAAX, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+@font-face {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../fonts/Jost.woff2") format("truetype");
+}
+@font-face {
+  font-family: "Jost";
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../fonts/Jostitalic.woff2") format("truetype");
+}
+
+/*# sourceMappingURL=style.css.map */
